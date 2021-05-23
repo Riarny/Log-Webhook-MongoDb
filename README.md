@@ -7,7 +7,7 @@
 * Ücretsiz bir küme oluşturun connection url Dosyasını doldurmak config.json 
 * Mongo db [documentation](https://github.com/shinchanOP/discord-audit-log-webhook/wiki/HOW-TO-USE-MONGODB) botunuz için mongo url'sini nasıl alacağınızla ilgili..
 
-##Kurulum | Bot nasıl kullanılır
+## Kurulum | Bot nasıl kullanılır
 
  **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) veya daha yüksek
 

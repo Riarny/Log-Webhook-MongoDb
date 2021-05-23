@@ -21,7 +21,7 @@
 
 #### **NOT:**
 
-*If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+*Başlarken hatalar / sorunlar yaşıyorsanız, paketleri yüklemeden önce package.json dosyasını silin ve silin. `npm init`*
 
 *BOT'UN YÖNETİCİSİ OLDUĞUNDAN EMİN OLUN*
 

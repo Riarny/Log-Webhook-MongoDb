@@ -30,6 +30,6 @@
 
 
 Discord Sunucumuz
- [Serendia Squad](https://discord.gg/serendia)
+ [OwOTurkiye](https://discord.gg/owoturkiye)
 
 Bu arşiv yalnızca bu DISCORD BOT nedeniyle mevcuttur, bu nedenle bu Depoyu güncel tutabilmemiz için onları davet ettiğinizden emin olun;)
